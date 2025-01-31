@@ -1,0 +1,20 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-olsen-haynie/learning-node.git"
+  },
+  "author": "ben haynie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-olsen-haynie/learning-node/issues"
+  },
+  "homepage": "https://github.com/ben-olsen-haynie/learning-node#readme"
+}
